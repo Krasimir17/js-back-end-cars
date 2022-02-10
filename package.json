@@ -1,0 +1,26 @@
+{
+  "name": "cubicle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krasimir17/js-back-end-cars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krasimir17/js-back-end-cars/issues"
+  },
+  "homepage": "https://github.com/Krasimir17/js-back-end-cars#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.15"
+  }
+}
